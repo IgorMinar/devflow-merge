@@ -1,5 +1,5 @@
 =======================
-Cool stuff here!
+Cool stuff right here!
 And more stuff right here!
-Totally new Thing here!
+Totally new Thing right here!
 =======================

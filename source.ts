@@ -1,4 +1,3 @@
-initial version
 
 Cool stuff here!
 

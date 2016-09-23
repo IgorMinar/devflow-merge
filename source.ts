@@ -2,4 +2,4 @@ initial version
 
 cool stuff here
 
-and more stuff heer
+and more stuff here

@@ -1,5 +1,6 @@
 initial version
 
-cool stuff here
+Cool stuff here!
 
-and more stuff here
+And more stuff here!
+
